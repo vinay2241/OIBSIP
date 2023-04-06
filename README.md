@@ -2,6 +2,8 @@
 Data Science Projects
 ReadMe
 
+ReadMe
+
 Oasis Infobyte Data Science Project Repo: https://github.com/vinay2241/OIBSIP
 
 
@@ -11,6 +13,8 @@ Title : Iris flower has three species; setosa, versicolor, and virginica, which 
 Although the Scikit-learn library provides a dataset for iris flower classification, you can also download the same dataset from here for the task of iris flower classification with Machine Learning.
 
 Project video: https://youtu.be/47mQ5D0S7lg
+
+Linkedin post : https://bit.ly/434DVFn
 
 Data set link :http://bit.ly/40CNc5P
 
@@ -26,6 +30,8 @@ In this Project, use Python to build an email spam detector. Then, use machine l
 
 Project video: https://youtu.be/489unXht5k4
 
+Linkedin post :https://bit.ly/3GolUrH 
+
 Data set link:http://bit.ly/3ZNb4m7
 
 Source code: http://bit.ly/3zCvK5G
@@ -36,12 +42,17 @@ Title: Unemployment is measured by the unemployment rate which is the number of 
 
 Project video: https://youtu.be/fkb5JvJgVC4
 
+Linkedin post :https://bit.ly/413GBkx 
+
 Data set1  link:  http://bit.ly/3Mp8rDR
 
 Data set2  link: http://bit.ly/439f3MF
 
 Source link : http://bit.ly/3Uh6HPa
 ________________________________________________________________________________________________________
+
+
+
 
 
 
